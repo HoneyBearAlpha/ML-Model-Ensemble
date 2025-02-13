@@ -17,8 +17,14 @@ A comprehensive ensemble of machine learning models for data science competition
 1. Add the new model to the `models` dictionary in `train_models.py`.
 2. Train the model using the existing framework.
 3. Update the evaluation script accordingly.
-http
-https://github.com/HoneyBearAlpha/ML-Model-Ensemble/blob/main/README.mds://github.com/HoneyBearAlpha/ML-Model-Ensemble/blob/main/README.md
+## Setup
+
+To install the required dependencies, run the following command:
+
+```
+pip install -r requirements.txt
+```
+
 ## Additional Scripts
 ### Data Preprocessing
 - **Script**: `data_preprocessing.py`
